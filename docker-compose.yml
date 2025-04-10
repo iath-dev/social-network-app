@@ -1,0 +1,45 @@
+version: "3.8"
+
+services:
+  postgres-db:
+    image: postgres:15
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: social_network
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  gateway:
+    build: ./sn-gateway
+    ports:
+      - "3000:3000"
+    depends_on:
+      - postgres-db
+
+  users-service:
+    build: ./sn-auth
+    ports:
+      - "3001:3001"
+    depends_on:
+      - postgres-db
+
+  posts-service:
+    build: ./sn-posts
+    ports:
+      - "3002:3002"
+    depends_on:
+      - postgres-db
+
+  frontend:
+    build: ./social-network-frontend
+    ports:
+      - "5173:80" # Vite o React en puerto 5173
+    depends_on:
+      - gateway
+
+volumes:
+  pgdata:

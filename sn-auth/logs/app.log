@@ -1,0 +1,165 @@
+2025-04-10T01:29:43.793Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T01:29:43.849Z [INFO]: Server is running on port 3001
+2025-04-10T01:29:43.922Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T01:31:26.019Z [INFO]: POST /register
+2025-04-10T01:31:26.020Z [INFO]: USERS SERVICE POST /register
+2025-04-10T01:31:29.905Z [INFO]: POST /register
+2025-04-10T01:31:29.907Z [INFO]: USERS SERVICE POST /register
+2025-04-10T01:36:36.657Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T01:36:36.698Z [INFO]: Server is running on port 3001
+2025-04-10T01:36:36.779Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T01:41:37.951Z [INFO]: GET /profile
+2025-04-10T01:41:38.428Z [INFO]: GET /favicon.ico
+2025-04-10T01:50:24.992Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T01:50:25.013Z [INFO]: Server is running on port 3001
+2025-04-10T01:50:25.059Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T01:50:58.771Z [INFO]: GET /profile
+2025-04-10T02:00:17.114Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:00:17.128Z [INFO]: Server is running on port 3001
+2025-04-10T02:00:17.165Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:05:31.358Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:05:31.393Z [INFO]: Server is running on port 3001
+2025-04-10T02:05:31.443Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:05:35.003Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:05:35.022Z [INFO]: Server is running on port 3001
+2025-04-10T02:05:35.087Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:05:38.203Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:05:38.219Z [INFO]: Server is running on port 3001
+2025-04-10T02:05:38.264Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:07:57.796Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:07:57.817Z [INFO]: Server is running on port 3001
+2025-04-10T02:07:57.868Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:08:32.324Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:08:32.360Z [INFO]: Server is running on port 3001
+2025-04-10T02:08:32.399Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:08:49.201Z [INFO]: POST /login
+2025-04-10T02:10:58.455Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:10:58.470Z [INFO]: Server is running on port 3001
+2025-04-10T02:10:58.509Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:11:03.815Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:11:03.830Z [INFO]: Server is running on port 3001
+2025-04-10T02:11:03.872Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:11:26.079Z [INFO]: POST /login
+2025-04-10T02:11:32.738Z [INFO]: POST /login
+2025-04-10T02:11:41.987Z [INFO]: POST /login
+2025-04-10T02:13:51.974Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:13:51.995Z [INFO]: Server is running on port 3001
+2025-04-10T02:13:52.055Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:14:27.796Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:14:27.815Z [INFO]: Server is running on port 3001
+2025-04-10T02:14:27.858Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:15:02.594Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:15:02.617Z [INFO]: Server is running on port 3001
+2025-04-10T02:15:02.661Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:15:08.127Z [INFO]: POST /login
+2025-04-10T02:15:17.747Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:15:17.762Z [INFO]: Server is running on port 3001
+2025-04-10T02:15:17.821Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:15:23.512Z [INFO]: POST /login
+2025-04-10T02:15:36.417Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:15:36.434Z [INFO]: Server is running on port 3001
+2025-04-10T02:15:36.487Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:15:37.398Z [INFO]: POST /login
+2025-04-10T02:15:48.219Z [INFO]: POST /login
+2025-04-10T02:16:28.436Z [INFO]: POST /login
+2025-04-10T02:17:23.954Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:17:23.975Z [INFO]: Server is running on port 3001
+2025-04-10T02:17:24.015Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:18:14.036Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:18:14.060Z [INFO]: Server is running on port 3001
+2025-04-10T02:18:14.126Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:18:32.835Z [INFO]: GET /profile
+2025-04-10T02:22:02.172Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:22:02.206Z [INFO]: Server is running on port 3001
+2025-04-10T02:22:02.257Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:22:12.269Z [INFO]: GET /profile
+2025-04-10T02:23:06.443Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:23:06.476Z [INFO]: Server is running on port 3001
+2025-04-10T02:23:06.531Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:23:18.627Z [INFO]: GET /profile
+2025-04-10T02:23:53.074Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:23:53.093Z [INFO]: Server is running on port 3001
+2025-04-10T02:23:53.140Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:23:59.571Z [INFO]: GET /profile
+2025-04-10T02:24:37.961Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:24:37.991Z [INFO]: Server is running on port 3001
+2025-04-10T02:24:38.061Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:58:19.298Z [INFO]: POST /login
+2025-04-10T02:58:27.361Z [INFO]: POST /login
+2025-04-10T02:59:18.343Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:59:18.370Z [INFO]: Server is running on port 3001
+2025-04-10T02:59:18.403Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T02:59:18.802Z [INFO]: POST /login
+2025-04-10T03:04:27.435Z [INFO]: POST /login
+2025-04-10T05:30:31.154Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T05:30:31.174Z [INFO]: Server is running on port 3001
+2025-04-10T05:30:31.227Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T10:05:27.817Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T10:05:27.851Z [INFO]: Server is running on port 3001
+2025-04-10T10:05:27.868Z [ERROR]: ❌ Error al conectar con PostgreSQL
+2025-04-10T10:06:00.902Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T10:06:00.922Z [INFO]: Server is running on port 3001
+2025-04-10T10:06:01.000Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T10:07:06.872Z [INFO]: POST /register
+2025-04-10T10:10:25.535Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T10:10:25.570Z [INFO]: Server is running on port 3001
+2025-04-10T10:10:25.716Z [INFO]: 📦 Tabla users verificada o creada
+2025-04-10T10:13:18.659Z [INFO]: POST /login
+2025-04-10T10:17:59.826Z [INFO]: POST /login
+2025-04-10T10:42:37.839Z [INFO]: GET /profile
+2025-04-10T10:42:37.934Z [INFO]: GET /profile
+2025-04-10T10:47:51.201Z [INFO]: GET /profile
+2025-04-10T10:47:51.247Z [INFO]: GET /profile
+2025-04-10T10:50:21.322Z [INFO]: GET /profile
+2025-04-10T10:50:21.367Z [INFO]: GET /profile
+2025-04-10T11:06:02.221Z [INFO]: GET /profile
+2025-04-10T11:06:02.405Z [INFO]: GET /profile
+2025-04-10T11:06:05.733Z [INFO]: GET /profile
+2025-04-10T11:06:05.749Z [INFO]: GET /profile
+2025-04-10T11:07:31.497Z [INFO]: GET /profile
+2025-04-10T11:07:31.530Z [INFO]: GET /profile
+2025-04-10T11:21:38.188Z [INFO]: GET /profile
+2025-04-10T11:21:38.260Z [INFO]: GET /profile
+2025-04-10T11:22:21.445Z [INFO]: GET /profile
+2025-04-10T11:22:21.449Z [INFO]: GET /profile
+2025-04-10T11:22:51.703Z [INFO]: POST /login
+2025-04-10T11:22:51.910Z [INFO]: GET /profile
+2025-04-10T11:22:51.919Z [INFO]: GET /profile
+2025-04-10T11:23:48.166Z [INFO]: GET /profile
+2025-04-10T11:23:48.194Z [INFO]: GET /profile
+2025-04-10T11:30:10.137Z [INFO]: POST /login
+2025-04-10T11:30:28.894Z [INFO]: POST /login
+2025-04-10T11:38:58.230Z [INFO]: GET /profile
+2025-04-10T11:44:37.083Z [INFO]: GET /profile
+2025-04-10T11:44:37.150Z [INFO]: GET /profile
+2025-04-10T11:44:53.044Z [INFO]: GET /profile
+2025-04-10T11:44:53.076Z [INFO]: GET /profile
+2025-04-10T11:45:14.164Z [INFO]: GET /profile
+2025-04-10T11:47:55.655Z [INFO]: POST /login
+2025-04-10T11:47:55.898Z [INFO]: GET /profile
+2025-04-10T11:47:55.921Z [INFO]: GET /profile
+2025-04-10T11:49:24.476Z [INFO]: GET /profile
+2025-04-10T11:49:24.505Z [INFO]: GET /profile
+2025-04-10T11:51:26.666Z [INFO]: POST /login
+2025-04-10T11:51:26.845Z [INFO]: GET /profile
+2025-04-10T11:51:26.852Z [INFO]: GET /profile
+2025-04-10T13:16:05.016Z [INFO]: GET /profile
+2025-04-10T13:16:05.026Z [INFO]: GET /profile
+2025-04-10T13:16:34.828Z [INFO]: POST /login
+2025-04-10T13:16:35.115Z [INFO]: GET /profile
+2025-04-10T13:16:35.128Z [INFO]: GET /profile
+2025-04-10T13:18:58.523Z [INFO]: GET /profile
+2025-04-10T13:18:58.560Z [INFO]: GET /profile
+2025-04-10T13:22:12.296Z [INFO]: GET /profile
+2025-04-10T13:22:12.331Z [INFO]: GET /profile
+2025-04-10T13:28:46.195Z [INFO]: GET /profile
+2025-04-10T13:28:46.251Z [INFO]: GET /profile
+2025-04-10T13:41:24.203Z [INFO]: POST /register
+2025-04-10T13:42:01.389Z [INFO]: POST /register
+2025-04-10T13:42:07.217Z [INFO]: POST /login
+2025-04-10T13:42:07.540Z [INFO]: GET /profile
+2025-04-10T13:42:07.551Z [INFO]: GET /profile
+2025-04-10T13:44:56.157Z [INFO]: GET /profile
+2025-04-10T13:46:39.153Z [INFO]: GET /profile
+2025-04-10T13:47:21.572Z [INFO]: GET /profile
+2025-04-10T13:47:21.607Z [INFO]: GET /profile

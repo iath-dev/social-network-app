@@ -1,0 +1,131 @@
+2025-04-10T02:55:51.540Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T02:55:51.562Z [INFO]: Server is running on port 3002
+2025-04-10T02:55:51.710Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T03:01:04.705Z [INFO]: POST /
+2025-04-10T03:01:27.755Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T03:01:27.772Z [INFO]: Server is running on port 3002
+2025-04-10T03:01:27.810Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T03:01:31.917Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T03:01:31.937Z [INFO]: Server is running on port 3002
+2025-04-10T03:01:31.981Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T03:01:34.864Z [INFO]: POST /
+2025-04-10T03:02:20.565Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T03:02:20.595Z [INFO]: Server is running on port 3002
+2025-04-10T03:02:20.641Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T03:02:28.514Z [INFO]: POST /
+2025-04-10T03:04:06.378Z [INFO]: POST /1/like
+2025-04-10T03:04:37.695Z [INFO]: POST /1/like
+2025-04-10T03:05:17.119Z [INFO]: GET /1/like
+2025-04-10T03:05:28.986Z [INFO]: GET /1/likes
+2025-04-10T03:06:11.193Z [INFO]: GET /
+2025-04-10T03:06:21.779Z [INFO]: GET /
+2025-04-10T05:30:26.327Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T05:30:26.349Z [INFO]: Server is running on port 3002
+2025-04-10T05:30:26.414Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T10:05:19.710Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T10:05:19.729Z [INFO]: Server is running on port 3002
+2025-04-10T10:05:19.851Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T10:05:56.292Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T10:05:56.307Z [INFO]: Server is running on port 3002
+2025-04-10T10:05:56.357Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T11:29:16.790Z [INFO]: GET /profile
+2025-04-10T11:29:28.599Z [INFO]: GET /posts
+2025-04-10T11:29:51.969Z [INFO]: GET /
+2025-04-10T11:30:40.687Z [INFO]: GET /
+2025-04-10T11:32:20.587Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T11:32:20.614Z [INFO]: Server is running on port 3002
+2025-04-10T11:32:20.652Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T11:34:33.252Z [INFO]: GET /
+2025-04-10T11:35:25.134Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T11:35:25.162Z [INFO]: Server is running on port 3002
+2025-04-10T11:35:25.193Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T11:44:37.143Z [INFO]: GET /
+2025-04-10T11:46:15.469Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T11:46:15.507Z [INFO]: Server is running on port 3002
+2025-04-10T11:46:15.562Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T11:46:31.217Z [INFO]: POST /
+2025-04-10T11:47:25.477Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T11:47:25.501Z [INFO]: Server is running on port 3002
+2025-04-10T11:47:25.544Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T11:47:30.182Z [INFO]: POST /
+2025-04-10T11:47:55.901Z [INFO]: GET /
+2025-04-10T11:49:10.680Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T11:49:10.697Z [INFO]: Server is running on port 3002
+2025-04-10T11:49:10.734Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T11:49:24.483Z [INFO]: GET /
+2025-04-10T11:49:50.269Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T11:49:50.291Z [INFO]: Server is running on port 3002
+2025-04-10T11:49:50.344Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T11:49:55.202Z [INFO]: POST /
+2025-04-10T11:51:26.848Z [INFO]: GET /
+2025-04-10T13:18:30.309Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T13:18:30.337Z [INFO]: Server is running on port 3002
+2025-04-10T13:18:30.378Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T13:18:58.540Z [INFO]: GET /
+2025-04-10T13:22:02.068Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T13:22:02.097Z [INFO]: Server is running on port 3002
+2025-04-10T13:22:02.131Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T13:22:12.302Z [INFO]: GET /
+2025-04-10T13:22:12.358Z [INFO]: GET /
+2025-04-10T13:22:19.124Z [INFO]: POST /
+2025-04-10T13:22:40.032Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T13:22:40.050Z [INFO]: Server is running on port 3002
+2025-04-10T13:22:40.116Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T13:26:05.423Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T13:26:05.444Z [INFO]: Server is running on port 3002
+2025-04-10T13:26:05.482Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T13:26:09.514Z [INFO]: POST /
+2025-04-10T13:26:38.941Z [INFO]: POST /
+2025-04-10T13:28:38.449Z [INFO]: POST /
+2025-04-10T13:28:46.183Z [INFO]: GET /
+2025-04-10T13:28:46.194Z [INFO]: GET /
+2025-04-10T13:30:45.827Z [INFO]: POST /
+2025-04-10T13:42:07.571Z [INFO]: GET /
+2025-04-10T13:42:07.647Z [INFO]: GET /
+2025-04-10T13:44:56.166Z [INFO]: GET /
+2025-04-10T13:46:39.159Z [INFO]: GET /
+2025-04-10T13:48:05.867Z [INFO]: POST /
+2025-04-10T13:48:29.423Z [INFO]: GET /
+2025-04-10T13:48:29.459Z [INFO]: GET /
+2025-04-10T13:57:32.462Z [INFO]: POST /2/like
+2025-04-10T13:57:38.492Z [INFO]: GET /
+2025-04-10T13:57:38.527Z [INFO]: GET /
+2025-04-10T13:57:41.968Z [INFO]: POST /2/like
+2025-04-10T13:58:51.281Z [INFO]: GET /
+2025-04-10T13:58:51.315Z [INFO]: GET /
+2025-04-10T13:58:53.702Z [INFO]: POST /2/like
+2025-04-10T13:58:53.725Z [INFO]: GET /
+2025-04-10T13:58:54.936Z [INFO]: POST /3/like
+2025-04-10T13:58:54.949Z [INFO]: GET /
+2025-04-10T13:58:55.688Z [INFO]: POST /1/like
+2025-04-10T13:58:55.701Z [INFO]: GET /
+2025-04-10T13:58:56.906Z [INFO]: POST /2/like
+2025-04-10T13:58:56.920Z [INFO]: GET /
+2025-04-10T13:58:58.108Z [INFO]: POST /3/like
+2025-04-10T13:58:58.120Z [INFO]: GET /
+2025-04-10T13:58:58.905Z [INFO]: POST /1/like
+2025-04-10T13:58:58.926Z [INFO]: GET /
+2025-04-10T14:04:29.217Z [INFO]: GET /
+2025-04-10T14:04:29.553Z [INFO]: GET /
+2025-04-10T14:04:53.304Z [INFO]: POST /
+2025-04-10T14:04:53.413Z [INFO]: GET /
+2025-04-10T14:04:59.045Z [INFO]: POST /4/like
+2025-04-10T14:04:59.062Z [INFO]: GET /
+2025-04-10T14:05:00.520Z [INFO]: POST /3/like
+2025-04-10T14:05:00.543Z [INFO]: GET /
+2025-04-10T14:05:01.973Z [INFO]: POST /2/like
+2025-04-10T14:05:01.992Z [INFO]: GET /
+2025-04-10T14:05:03.601Z [INFO]: POST /1/like
+2025-04-10T14:05:03.612Z [INFO]: GET /
+2025-04-10T14:05:09.655Z [INFO]: POST /4/like
+2025-04-10T14:05:09.676Z [INFO]: GET /
+2025-04-10T14:05:09.956Z [INFO]: POST /4/like
+2025-04-10T14:05:10.024Z [INFO]: GET /
+2025-04-10T14:05:10.161Z [INFO]: POST /4/like
+2025-04-10T14:05:10.181Z [INFO]: GET /
+2025-04-10T14:05:10.776Z [INFO]: POST /4/like
+2025-04-10T14:05:10.797Z [INFO]: GET /
+2025-04-10T14:07:08.154Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T14:07:08.200Z [INFO]: Server is running on port 3002
+2025-04-10T14:07:08.310Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T14:07:13.766Z [INFO]: GET /

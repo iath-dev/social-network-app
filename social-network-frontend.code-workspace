@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "sn-gateway"
+		},
+		{
+			"path": "sn-auth"
+		},
+		{
+			"path": "sn-posts"
+		},
+		{
+			"path": "social-network-frontend"
+		}
+	],
+	"settings": {}
+}
