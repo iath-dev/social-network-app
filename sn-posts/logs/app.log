@@ -129,3 +129,23 @@
 2025-04-10T14:07:08.200Z [INFO]: Server is running on port 3002
 2025-04-10T14:07:08.310Z [INFO]: 📦 Tabla posts verificada o creada
 2025-04-10T14:07:13.766Z [INFO]: GET /
+2025-04-10T14:07:34.111Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T14:07:34.139Z [INFO]: Server is running on port 3002
+2025-04-10T14:07:34.201Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T14:07:37.397Z [INFO]: GET /
+2025-04-10T14:07:37.433Z [INFO]: GET /
+2025-04-10T14:09:08.875Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T14:09:08.891Z [INFO]: Server is running on port 3002
+2025-04-10T14:09:08.950Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T14:11:42.542Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T14:11:42.559Z [INFO]: Server is running on port 3002
+2025-04-10T14:11:42.596Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T14:12:01.266Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T14:12:01.290Z [INFO]: Server is running on port 3002
+2025-04-10T14:12:01.349Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T14:12:16.701Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T14:12:16.728Z [INFO]: Server is running on port 3002
+2025-04-10T14:12:16.775Z [INFO]: 📦 Tabla posts verificada o creada
+2025-04-10T14:12:30.448Z [INFO]: ✅ Conexión con PostgreSQL establecida
+2025-04-10T14:12:30.474Z [INFO]: Server is running on port 3002
+2025-04-10T14:12:30.522Z [INFO]: 📦 Tabla posts verificada o creada
